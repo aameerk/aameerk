@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Aameer Khan</h1>
 
-![image](https://user-images.githubusercontent.com/83020129/194030389-3a018b29-6476-4e2b-aed4-039c53112203.png)
-
+<img align="right" width="100" height="100" src="http://www.fillmurray.com/100/100">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aameerk&label=Profile%20views&color=0e75b6&style=flat" alt="aameerk" /> </p>
 
