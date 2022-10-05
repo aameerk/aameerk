@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Aameer Khan</h1>
 <h3 align="center">A passionate frontend developer and ML enthusiast from India</h3>
 
+<img align="right" alt = "coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Frudrabarad%2FGifs&psig=AOvVaw1eF6-QiUjfzyIl1aCG9pmU&ust=1665046928744000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCKiSn6vdyPoCFQAAAAAdAAAAABAS"/>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aameerk&label=Profile%20views&color=0e75b6&style=flat" alt="aameerk" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aameerk" alt="aameerk" /></a> </p>
