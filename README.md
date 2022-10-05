@@ -1,5 +1,7 @@
-![gitanm](https://user-images.githubusercontent.com/83020129/194030083-bd36f2bc-7dd3-4175-9019-33c557f8d1f2.gif)
 <h1 align="center">Hi 👋, I'm Aameer Khan</h1>
+
+![image](https://user-images.githubusercontent.com/83020129/194030389-3a018b29-6476-4e2b-aed4-039c53112203.png)
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aameerk&label=Profile%20views&color=0e75b6&style=flat" alt="aameerk" /> </p>
 
