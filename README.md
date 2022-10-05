@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aameer Khan</h1>
 <h3 align="center">A passionate frontend developer and ML enthusiast from India</h3>
 
-<img align="right" alt = "coding" width="300" src="![gitanm](https://user-images.githubusercontent.com/83020129/194025981-fa8e6b87-9fc8-413a-b1a1-4bdd5d86cb8a.gif)"/>
+<img align="right"  width="400" src="![gitanm](https://user-images.githubusercontent.com/83020129/194025981-fa8e6b87-9fc8-413a-b1a1-4bdd5d86cb8a.gif)"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aameerk&label=Profile%20views&color=0e75b6&style=flat" alt="aameerk" /> </p>
 
