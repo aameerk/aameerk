@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aameer Khan</h1>
 <h3 align="center">A passionate frontend developer and ML enthusiast from India</h3>
 
-<img align="right" alt = "coding" width="400" src="GitHub - rudrabarad/Gifs: Collection of some Coding / Programming Gifs that  can be used in Special Repository"/>
+<img align="right" alt = "coding" width="300" src="GitHub - rudrabarad/Gifs: Collection of some Coding / Programming Gifs that  can be used in Special Repository"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aameerk&label=Profile%20views&color=0e75b6&style=flat" alt="aameerk" /> </p>
 
