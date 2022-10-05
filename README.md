@@ -1,5 +1,6 @@
+![gitanm](https://user-images.githubusercontent.com/83020129/194030083-bd36f2bc-7dd3-4175-9019-33c557f8d1f2.gif)
 <h1 align="center">Hi 👋, I'm Aameer Khan</h1>
-![gitanm](https://user-images.githubusercontent.com/83020129/194029628-e0aa7844-7cdc-4562-9cb4-b6241ca0994e.gif)
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aameerk&label=Profile%20views&color=0e75b6&style=flat" alt="aameerk" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aameerk" alt="aameerk" /></a> </p>
