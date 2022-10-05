@@ -2,7 +2,7 @@
 <h3 align="center">A passionate frontend developer and ML enthusiast from India</h3>
 
 <img src="
-![images](https://user-images.githubusercontent.com/83020129/194027534-f4d325bf-1838-4f31-ac8a-0e4873ed999a.jpeg)
+![images](https://user-images.githubusercontent.com/83020129/194027534-f4d325bf-1838-4f31-ac8a-0e4873ed999a.jpeg)"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aameerk&label=Profile%20views&color=0e75b6&style=flat" alt="aameerk" /> </p>
 
