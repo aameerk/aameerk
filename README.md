@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aameer Khan</h1>
 
 
-<img align="right" alt="Coder GIF" height=150 width=300 src="https://magiccopy.xyz/assets/images/hadder.gif">
+<img alt="Coder GIF" height=250 width=350 src="https://magiccopy.xyz/assets/images/hadder.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aameerk&label=Profile%20views&color=0e75b6&style=flat" alt="aameerk" /> </p>
 
