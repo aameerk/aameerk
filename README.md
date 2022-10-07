@@ -34,6 +34,5 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=aameerk&show_icons=true&locale=en&layout=compact" alt="aameerk" /></p></br>
 
 <br>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aameerk&show_icons=true&locale=en" alt="aameerk" /></p></br>
-
+[![GitHub Streak](https://streak-stats.demolab.com?user=aameerk&theme=merko&border_radius=5&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aameerk&" alt="aameerk" /></p>
