@@ -31,12 +31,10 @@
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aameerk&layout=compact"/>
 <br>
-https://github-stats-alpha.vercel.app/api?username={your-github-username}&cc=000&tc=fff&ic=fff&bc=000
-
-Where cc = Card Color
+<img align="center" src="https://github-stats-alpha.vercel.app/api?username={your-github-username}&cc=000&tc=fff&ic=fff&bc=000 Where cc = Card Color
       tc = Text Color
       ic = Icon Color
-      bc = Border Color
+      bc = Border Color"/>
  <br>
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=aameerk&show_icons=true&theme=merko&locale=en&layout=compact"/>
 <br>
