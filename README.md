@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning **Angular, React , Python, PowerBI**
 
-- 👨‍💻 All of my projects are available at my repo's [https://github.com/aameerk](https://github.com/aameerk)
+- 👨‍💻 All of my projects are available at my repo's https://github.com/aameerk?tab=repositories
 
 - 📫 How to reach me **aameerk917@gmail.com**
 
