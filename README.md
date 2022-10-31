@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on **a Digital Human Resource Management project**
 
-- 🌱 I’m currently learning **Angular, React , Python, PowerBI**
+- 🌱 I’m currently learning **Angular, Node Js , Python, PowerBI , R**
 
 - 👨‍💻 All of my projects are available at my repo's https://github.com/aameerk?tab=repositories
 
