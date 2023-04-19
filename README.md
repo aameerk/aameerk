@@ -22,8 +22,7 @@
 <a href="https://linkedin.com/in/aameer-khan-198230213" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aameer khan" height="30" width="40" /></a>
 <a href="https://kaggle.com/aameer khan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="aameer khan" height="30" width="40" /></a>
 <a href="https://instagram.com/aameer.___" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aameer.___" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/aameerk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="aameerk" height="30" width="40" /></a>
-<a href="https://discord.gg/aameerk#0788" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="aameerk#0788" height="30" width="40" /></a>
+
 </p>
 <br>
 <h3 align="left">Languages and Tools:</h3>
