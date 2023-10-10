@@ -8,7 +8,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aameerk&label=Profile%20views&color=0e75b6&style=flat" alt="aameerk" /> </p>
 
-- 🔭 I’m currently working on **a Digital Human Resource Management project**
+- 🔭 Worked on **a Digital Human Resource Management project**
 
 - 🌱 I’m currently working with **Angular, Node Js , Python, Tableau , R , Docker , Spark and Streamlit**
 
