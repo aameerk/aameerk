@@ -30,6 +30,8 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aameerk&hide=False&lang_count=10&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=aameerk" />
-</a>
+
+<br>
+
+<br>
+<p><img align = "center" src="https://streak-stats.demolab.com?user=aameerk&theme=merko&border_radius=5&date_format=M%20j%5B%2C%20Y%5D" alt="aameerk"/></p></br>
