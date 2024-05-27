@@ -76,24 +76,43 @@
 
 <h2 align="center">👨‍💻 Repositories 👨‍💻</h2>
 <br>
-<div width="100%" align="center">
-  <a align="left" href="https://github.com/aameerk/Streamlit-multipage" title="Streamlit Multipage Application"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=aameerk&repo=Streamlit-multipage&theme=react&border_color=61dafb&border_radius=10"></a><a align="right" href="https://github.com/aameerk/Arima_model_prediction " title="Arima model prediction "><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=aameerk&repo=Arima_model_prediction &theme=react&border_color=61dafb&border_radius=10"></a>
+<div align="center">
+  <a href="https://github.com/aameerk/Streamlit-multipage" title="Streamlit Multipage Application">
+    <img height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=aameerk&repo=Streamlit-multipage&theme=react&border_color=61dafb&border_radius=10">
+  </a>
+  <a href="https://github.com/aameerk/Arima_model_prediction" title="Arima model prediction">
+    <img height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=aameerk&repo=Arima_model_prediction&theme=react&border_color=61dafb&border_radius=10">
+  </a>
 </div>
-<br/><br/><br/><br/><br/><br/>
-<div width="100%" align="center">
-  <a align="left" href="https://github.com/aameerk/Credit_Card_Fraud_Detecton_Using_TfNN " title="Credit_Card_Fraud_Detecton_Using_TfNN "><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=aameerk&repo=Credit_Card_Fraud_Detecton_Using_TfNN &theme=react&border_color=61dafb&border_radius=10"></a>
-  <a align="right" href="https://github.com/aameerk/KaggleMLprojects" title="Copy&KaggleMLprojects"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=aameerk&repo=KaggleMLprojects&theme=react&border_color=61dafb&border_radius=10"></a>
+
+<br/><br/><br/>
+
+<div align="center">
+  <a href="https://github.com/aameerk/Credit_Card_Fraud_Detecton_Using_TfNN" title="Credit Card Fraud Detection Using TfNN">
+    <img height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=aameerk&repo=Credit_Card_Fraud_Detecton_Using_TfNN&theme=react&border_color=61dafb&border_radius=10">
+  </a>
+  <a href="https://github.com/aameerk/KaggleMLprojects" title="Kaggle ML Projects">
+    <img height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=aameerk&repo=KaggleMLprojects&theme=react&border_color=61dafb&border_radius=10">
+  </a>
 </div>
-<br/><br/><br/><br/><br/><br/>
-<div width="100%" align="center">
-  <a align="left" href="https://github.com/aameerk/Equity-Research-Analysis-using-Langchain" title="Equity Research Analysis using Langchain"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=aameerk&repo=Equity-Research-Analysis-using-Langchain&theme=react&border_color=61dafb&border_radius=10"></a>
-  <a align="right" href="https://github.com/aameerk/customer-attrition-prediction" title="Customer Attrition Prediction"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=aameerk&repo=customer-attrition-prediction&theme=react&border_color=61dafb&border_radius=10"></a>
+
+<br/><br/><br/>
+
+<div align="center">
+  <a href="https://github.com/aameerk/Equity-Research-Analysis-using-Langchain" title="Equity Research Analysis using Langchain">
+    <img height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=aameerk&repo=Equity-Research-Analysis-using-Langchain&theme=react&border_color=61dafb&border_radius=10">
+  </a>
+  <a href="https://github.com/aameerk/customer-attrition-prediction" title="Customer Attrition Prediction">
+    <img height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=aameerk&repo=customer-attrition-prediction&theme=react&border_color=61dafb&border_radius=10">
+  </a>
 </div>
-<br/><br/><br/><br/><br/><br/>
+
+<br/><br/><br/>
 
 <h4 align="center">
   <a href="https://github.com/aameerk?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
 </h4>
+
 
 
 <!--
