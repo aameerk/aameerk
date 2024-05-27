@@ -38,7 +38,7 @@
   <code><img title="HTML5" height="25" src="images/html5.svg"></code>
   <code><img title="CSS" height="25" src="images/css.svg"></code>
   <code><img title="React" height="25" src="images/react-original.svg"></code>
-=  <code><img title="AngularJS" height="25" src="images/angularjs.png"></code>
+  <code><img title="AngularJS" height="25" src="images/angularjs.png"></code>
   <code><img title="Git" height="25" src="images/git-original.svg"></code>
   <code><img title="PostgreSQL" height="25" src="images/postgresql.svg"></code>
   <code><img title="Visual Studio Code" height="25" src="images/vscode.png"></code>
@@ -77,17 +77,17 @@
 <h2 align="center">👨‍💻 Repositories 👨‍💻</h2>
 <br>
 <div width="100%" align="center">
-  <a align="left" href="https://github.com/aameerk/Algorithms" title="Algorithms"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=aameerk&repo=Algorithms&theme=react&border_color=61dafb&border_radius=10"></a><a align="right" href="https://github.com/aameerk/DataStructures" title="Data Structures"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=aameerk&repo=DataStructures&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="left" href="https://github.com/aameerk/Streamlit-multipage" title="Streamlit Multipage Application"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=aameerk&repo=Streamlit-multipage&theme=react&border_color=61dafb&border_radius=10"></a><a align="right" href="https://github.com/aameerk/Arima_model_prediction " title="Arima model prediction "><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=aameerk&repo=Arima_model_prediction &theme=react&border_color=61dafb&border_radius=10"></a>
 </div>
 <br/><br/><br/><br/><br/><br/>
 <div width="100%" align="center">
-  <a align="left" href="https://github.com/aameerk/Turkce-Heceleme-CPP" title="Turkce-Heceleme-CPP"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=aameerk&repo=Turkce-Heceleme-CPP&theme=react&border_color=61dafb&border_radius=10"></a>
-  <a align="right" href="https://github.com/aameerk/CopyMoveForgeryDetectionWithDCT" title="Copy&Move Forgery Detection With DCT"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=aameerk&repo=CopyMoveForgeryDetectionWithDCT&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="left" href="https://github.com/aameerk/Credit_Card_Fraud_Detecton_Using_TfNN " title="Credit_Card_Fraud_Detecton_Using_TfNN "><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=aameerk&repo=Credit_Card_Fraud_Detecton_Using_TfNN &theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="right" href="https://github.com/aameerk/KaggleMLprojects" title="Copy&KaggleMLprojects"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=aameerk&repo=KaggleMLprojects&theme=react&border_color=61dafb&border_radius=10"></a>
 </div>
 <br/><br/><br/><br/><br/><br/>
 <div width="100%" align="center">
-  <a align="left" href="https://github.com/aameerk/cpp-openmp-needleman-wunsch" title="Needleman Wunsch Algorithm With OpenMP"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=aameerk&repo=cpp-openmp-needleman-wunsch&theme=react&border_color=61dafb&border_radius=10"></a>
-  <a align="right" href="https://github.com/aameerk/javascript-minesweeper" title="Minesweeper"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=aameerk&repo=javascript-minesweeper&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="left" href="https://github.com/aameerk/Equity-Research-Analysis-using-Langchain" title="Equity Research Analysis using Langchain"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=aameerk&repo=Equity-Research-Analysis-using-Langchain&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="right" href="https://github.com/aameerk/customer-attrition-prediction" title="Customer Attrition Prediction"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=aameerk&repo=customer-attrition-prediction&theme=react&border_color=61dafb&border_radius=10"></a>
 </div>
 <br/><br/><br/><br/><br/><br/>
 
@@ -118,7 +118,6 @@ Notes: If you want use this readme, firstly star it please. If you can't align y
 -->
 
 
-<p><img align = "center" src="https://streak-stats.demolab.com?user=aameerk&theme=merko&border_radius=5&date_format=M%20j%5B%2C%20Y%5D" alt="aameerk"/></p></br>
 
 
 
