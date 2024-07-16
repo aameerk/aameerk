@@ -13,7 +13,7 @@
 </h5>
 <br>
 <p align="center">
-  Hi, I'm Aameer, Consultant & Data Scientist & SQL Developer from India.
+  Hi, I'm Aameer, Consultant, Data Scientist & SQL Developer from India.
   <br>
   🎓 I graduated from REC, Department of Artificial Intelligence and Machine Learning.
   <br>
